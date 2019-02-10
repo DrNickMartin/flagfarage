@@ -1,0 +1,23 @@
+{
+  "name": "flagfarage",
+  "version": "1.0.0",
+  "description": "I had a dream that brexit was over and I was waving an EU flag in the face of Nigel Farage...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrNickDMartin/flagfarage.git"
+  },
+  "author": "Nick Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrNickDMartin/flagfarage/issues"
+  },
+  "homepage": "https://github.com/DrNickDMartin/flagfarage#readme",
+  "dependencies": {
+    "pg": "^7.8.0",
+    "socket.io": "^2.2.0"
+  }
+}
